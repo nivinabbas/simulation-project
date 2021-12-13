@@ -1,11 +1,8 @@
 *{
     background-color: rgb(62, 15, 190);
-<<<<<<< HEAD
+    font-size: 20px;
 }
 
-button{
-
-=======
-    font-size: 20px;
->>>>>>> 34e0c97f92b1ec702d5c333219aea2f63be7c754
+.button{
+    background-color: aqua;
 }
